@@ -35,7 +35,7 @@ Insights and recommendations focus on three key areas:
 
 A link to the interactive dashboard made in Tableau for this sales anallysis can be found [here.](https://public.tableau.com/views/CoffeeSales_17624595519230/CoffeeShopSalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-The Excel Workbook used to clean and analyse this data including a cleaning Log can be downloaded [here.](https://github.com/Yohannes-Portfolio/Data-Analysis-Portfolio/blob/main/Coffe%20Sales%20Project%20Workbook.zip)
+The Excel Workbook used to clean and analyse this data including a cleaning Log can be downloaded [here.](https://github.com/Yohannes-Portfolio/Revenue-And-Growth-Performance-Optimization-Strategy/blob/main/Coffe%20Sales%20Project%20Workbook.zip)
 
 ## Data Structure & Initial Checks
 
