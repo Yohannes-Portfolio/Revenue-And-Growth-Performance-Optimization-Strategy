@@ -47,7 +47,7 @@ The coffee shops transaction database as seen below consists of a single table w
 
 Before analysis was begun data cleaning operations involved the elimination of duplicate transactions and date/range time validation to ensure consistency in the data.
 <p align="center">
-  <img width="1708" height="106" alt="image" src="https://github.com/user-attachments/assets/58158169-aea1-4570-8450-16a651f6c42d" />
+  <img width="1866" height="179" alt="image" src="https://github.com/user-attachments/assets/cd8ea566-a45a-4200-9641-ed454c178e71" />
 </p>
 
 ## Executive Overview
