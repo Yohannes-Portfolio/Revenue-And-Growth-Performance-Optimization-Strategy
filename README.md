@@ -33,8 +33,6 @@ Insights and recommendations focus on three key areas:
 
 - **Operational Optimization:** Data-driven recommendations to sustain growth while improving margins through cost reduction and resource allocation
 
-A link to the interactive dashboard made in Tableau for this sales anallysis can be found [here.](https://public.tableau.com/views/CoffeeSales_17624595519230/CoffeeShopSalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-
 The Excel Workbook used to clean and analyse this data including a cleaning Log can be downloaded [here.](https://github.com/Yohannes-Portfolio/Revenue-And-Growth-Performance-Optimization-Strategy/blob/main/Coffe%20Sales%20Project%20Workbook.zip)
 
 ## Data Structure & Initial Checks
@@ -53,12 +51,6 @@ Before analysis was begun data cleaning operations involved the elimination of d
 ## Executive Overview
 
 Analysis of the first half of 2023 transaction data reveals three critical patterns limiting profitability despite volume growth of **103% in total revenue**. **Morning hours from 8am to 11am generate 45% of daily revenue**, while evening hours contribute less than 10%, creating a severe efficiency mismatch. **Just 15 products types drive 90% of revenue**, while 30 product types are maintained, distributing operational complexity across items that deliver minimal return. **A predictable monthly 28.6% revenue decline from the 26th to 29th** is linked to customer paycheck cycles. These three patterns remained constant over the six-month timeframe and are, therefore, structural customer behaviors, not one-off anomalies.
-
-Below is the overview for sales for the tableau dashboard, more visuals are given and explained throughout the report. The interactive dashboard can be found [here.](https://public.tableau.com/views/CoffeeSales_17624595519230/CoffeeShopSalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-<p align="center">
-  <img width="1514" height="804" alt="image" src="https://github.com/user-attachments/assets/afaae270-e5fb-4e7e-8499-35f84e292293" />
-</p>
 
 ## Deep Dive Insights
 
